@@ -4,32 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5dcdeada-ecc1-411c-b0a1-d7227d87ec4f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatternsOefeningenDeel2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/compositedesignpattern/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/compositedesignpattern/Banana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/compositedesignpattern/CompositeApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/compositedesignpattern/Ingredient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/compositedesignpattern/Mix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/compositedesignpattern/Pear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/observerdesignpattern/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/observerdesignpattern/Influencer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/observerdesignpattern/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/observerdesignpattern/ObserverApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/observerdesignpattern/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/observerdesignpattern/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/strategydesignpattern/ArraySorter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/strategydesignpattern/ArraySortingAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/strategydesignpattern/BubbleSortAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/strategydesignpattern/MergeSortAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/strategydesignpattern/StrategyApp.java" afterDir="false" />
-    </list>
+    <list default="true" id="5dcdeada-ecc1-411c-b0a1-d7227d87ec4f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
